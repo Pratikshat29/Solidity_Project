@@ -4,7 +4,7 @@ All about the course first ↓↓
 It was designed to introduce about Web3 and also get started with solidity programming.You get a challenge at the end of all there given modules!!
 ## Initiate The Beginning
 I wrote code using the given programming language its solidity programming after getting a proper idea of this course.
-## Exlain the Task
+## Explain the Task
 I had a challenge to make a contract on the basis to mint and burn the token, where I make a three variable : two strings and one uint
 1. Strings as tokenname with a value of "prat"
 2. Strings as tokenabbr (Abbreviation) with a value of "sha"
